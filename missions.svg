@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+ <defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8aafbb" opacity=".2"/></pattern></defs>
+ <rect width="720" height="360" fill="#142c32"/><rect width="720" height="360" fill="url(#dots)"/>
+ <path d="M42 54h25M42 54v25M678 54h-25M678 54v25M42 306h25M42 306v-25M678 306h-25M678 306v-25" fill="none" stroke="#c5d9d2" stroke-width="1.2"/>
+ <g fill="none" stroke="#d8ed7d" stroke-width="1.5"><path d="M205 153h66l30 27h68M465 180h60"/><circle cx="207" cy="153" r="5" fill="#142c32"/><circle cx="524" cy="180" r="5" fill="#142c32"/></g>
+ <rect x="78" y="93" width="130" height="109" rx="9" fill="#f4f7ee"/><rect x="98" y="110" width="88" height="9" rx="3" fill="#dce5d3"/><path d="M97 173h91M112 173v-22h17v22M140 173v-38h17v38M168 173v-49h17v49" fill="none" stroke="#164cff" stroke-width="2"/>
+ <rect x="304" y="126" width="156" height="104" rx="9" fill="#eaf0ff"/><g stroke="#164cff" stroke-width="1.8" fill="none"><circle cx="349" cy="157" r="11"/><circle cx="410" cy="157" r="11"/><path d="M328 202v-16c0-18 42-18 42 0v16M389 202v-16c0-18 42-18 42 0v16M370 188h19"/></g><rect x="369" y="100" width="69" height="28" rx="7" fill="#d8ed7d"/><path d="m383 128-4 9 15-9" fill="#d8ed7d"/><path d="M383 114h8m6 0h8m6 0h11" stroke="#142c32" stroke-width="2"/>
+ <rect x="531" y="107" width="105" height="133" rx="9" fill="#f4f7ee"/><g stroke-width="2" fill="none"><path d="m549 137 4 4 8-9m-12 30 4 4 8-9m-12 30 4 4 8-9" stroke="#164cff"/><path d="M573 137h42M573 162h42M573 187h42M550 215h65" stroke="#a3b49a"/></g>
+ <g font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#e6efeb"><text x="96" y="267">APRENDIZADOS</text><text x="342" y="267">CONEXÕES</text><text x="541" y="267">APLICAÇÃO</text></g>
+</svg>

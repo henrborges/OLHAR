@@ -1,0 +1,160 @@
+{
+  "modules": [
+    {
+      "id": "preparar", "number": "01", "title": "Prepare o celular", "minutes": 5, "tag": "Primeiros passos", "image": "camera.svg",
+      "description": "Poucos ajustes antes do clique fazem uma grande diferença.",
+      "principle": "A primeira boa foto começa antes de abrir a câmera.",
+      "sections": [
+        {"title": "Comece pela lente", "text": "Marcas de dedo espalham a luz e deixam a foto com aparência de neblina. Limpe a lente com um pano de microfibra seco e macio. Confira também bateria, espaço livre e se a capa não está cobrindo a câmera."},
+        {"title": "Use o aplicativo de câmera", "text": "Prefira fotografar no aplicativo nativo e depois compartilhar o arquivo. Comece no modo Foto, com a câmera traseira principal em 1×. Essa é uma referência prática; compare os resultados do seu aparelho quando houver outras lentes."},
+        {"title": "Ative a grade", "text": "As linhas ajudam a perceber se o horizonte está inclinado e a organizar pessoas e objetos. No iPhone, procure Ajustes > Câmera > Grade. No Android, procure por Grade ou Linhas de grade nas configurações da câmera; os nomes variam conforme fabricante e versão."},
+        {"title": "Proporção não é orientação", "text": "4:3 é a proporção de captura nativa de muitos celulares e costuma preservar mais área que 16:9; confira seu modelo. Vertical ou horizontal é a posição do aparelho. Para uma cobertura, faça as duas orientações e deixe margem para recortar depois."},
+        {"title": "Resolução sem complicação", "text": "O modo padrão costuma ser um bom começo. Mais megapixels não garantem uma foto melhor, especialmente com pouca luz ou movimento. Evite filtros de beleza em registros institucionais e teste o flash: com luz disponível suficiente, prefira começar sem ele."}
+      ],
+      "steps": ["Limpe a lente e confira a bateria.", "Abra a câmera nativa no modo Foto.", "Ative a grade e comece com a lente 1×.", "Faça uma foto de teste e amplie para conferir."],
+      "exercise": "Escolha um objeto sobre a mesa. Faça uma foto, limpe a lente e repita do mesmo lugar. Compare o contraste e os reflexos, ampliando os dois arquivos.",
+      "avoid": "Começar a cobertura sem conferir se o último ajuste deixou um filtro, uma lente inadequada ou o flash ligado.",
+      "takeaway": "Lente limpa, câmera nativa e teste rápido: sua rotina antes de fotografar."
+    },
+    {
+      "id": "luz", "number": "02", "title": "Encontre a melhor luz", "minutes": 8, "tag": "Fundamentos", "image": "light.svg",
+      "description": "Leia a direção da luz e controle o brilho da imagem.",
+      "principle": "Antes de mudar a câmera, experimente mudar de lugar.",
+      "sections": [
+        {"title": "Observe de onde vem a luz", "text": "Uma janela ou uma área de sombra aberta pode oferecer luz suave para o rosto. Posicione a pessoa de frente ou levemente de lado para essa luz. Caminhe ao redor dela e observe como as sombras mudam antes de escolher o enquadramento."},
+        {"title": "Luz dura e luz suave", "text": "Sol direto tende a criar sombras marcadas, olhos semicerrados e áreas muito claras. Em uma sombra aberta, a luz costuma ficar mais uniforme. Evite manchas de sol entre folhas sobre os rostos e, quando possível, procure uma área com iluminação consistente."},
+        {"title": "Exposição é o brilho capturado", "text": "A câmera tenta decidir o brilho automaticamente, mas pode se enganar diante de uma janela ou de um palco. Toque no assunto principal e ajuste o controle de exposição ou brilho. Reduza um pouco se a pele ou uma camisa clara perder os detalhes."},
+        {"title": "Três controles por trás da foto", "text": "A velocidade define por quanto tempo a luz é capturada: tempos longos favorecem borrões de movimento. O ISO aumenta a sensibilidade ou o ganho e pode trazer ruído. A abertura participa da entrada de luz e da profundidade de campo; em muitos celulares ela é fixa. No automático, concentre-se na luz, no foco e na estabilidade."},
+        {"title": "Contraluz exige atenção", "text": "Uma janela atrás da pessoa pode deixá-la escura. Para um retrato simples, troque o ângulo para que a janela ilumine o rosto. O HDR pode ajudar em cenas de alto contraste, mas não resolve toda situação, especialmente com movimento. Confira sempre o resultado."}
+      ],
+      "steps": ["Identifique a principal fonte de luz.", "Coloque a pessoa em uma área com luz uniforme.", "Toque no rosto e ajuste a exposição se necessário.", "Confira se há detalhes nas áreas claras."],
+      "exercise": "Fotografe a mesma pessoa com a janela atrás dela, de lado e à sua frente. Mantenha a distância e compare os detalhes do rosto e do fundo.",
+      "avoid": "Confiar apenas no brilho da tela. Uma tela muito clara pode fazer uma foto escura parecer bem exposta.",
+      "takeaway": "Boa luz e uma pequena mudança de posição valem mais que um filtro."
+    },
+    {
+      "id": "composicao", "number": "03", "title": "Organize o enquadramento", "minutes": 8, "tag": "Fundamentos", "image": "composition.svg",
+      "description": "Dê um protagonista à foto e cuide do que aparece ao redor.",
+      "principle": "Se tudo chama atenção, nada chama atenção.",
+      "sections": [
+        {"title": "Escolha o assunto principal", "text": "Antes de clicar, complete a frase: esta foto é sobre... Se a resposta não estiver clara, simplifique o quadro. Aproxime-se com segurança, mude o ângulo ou retire elementos que não ajudam a contar a história. Um fundo simples facilita a leitura."},
+        {"title": "A grade é um apoio", "text": "Divida mentalmente a imagem em três partes na horizontal e na vertical. Experimente posicionar o assunto perto de uma interseção. A regra dos terços é uma possibilidade, não uma obrigação: centralização, repetição e simetria também podem funcionar muito bem."},
+        {"title": "Olhe as quatro bordas", "text": "Verifique se há uma cabeça cortada, uma lixeira, um cabo ou um objeto que parece sair da cabeça de alguém. Em retratos, evite cortes diretamente nas articulações. Deixe um pouco de espaço na direção do olhar e da ação."},
+        {"title": "Alinhe e dê contexto", "text": "Use a grade para manter paredes e horizontes coerentes. Linhas do ambiente podem conduzir o olhar até o assunto. Um plano aberto situa o local; um plano médio mostra a ação; um detalhe revela algo que poderia passar despercebido. Os três se complementam."},
+        {"title": "Pense no destino da imagem", "text": "Uma foto para stories pede um enquadramento diferente de uma imagem para relatório. Faça uma opção horizontal e outra vertical. Deixe espaço para título quando houver essa necessidade, sem depender de um recorte extremo que elimine o contexto."}
+      ],
+      "steps": ["Defina o protagonista da foto.", "Experimente centralizar e depois usar um terço.", "Confira horizonte, fundo e quatro bordas.", "Registre uma versão horizontal e uma vertical."],
+      "exercise": "Faça três fotos da mesma cena: uma aberta, uma média e um detalhe. Escolha a que melhor responde o que aconteceu e explique sua escolha em uma frase.",
+      "avoid": "Usar a grade como regra rígida e esquecer o momento, a expressão ou o conteúdo da foto.",
+      "takeaway": "Um assunto claro, um fundo cuidado e bordas limpas tornam a foto mais fácil de entender."
+    },
+    {
+      "id": "foco", "number": "04", "title": "Acerte o foco e a nitidez", "minutes": 7, "tag": "Na prática", "image": "focus.svg",
+      "description": "Evite fotos tremidas e saiba quando trocar de lente.",
+      "principle": "Uma foto pequena pode parecer nítida. Confira ampliando.",
+      "sections": [
+        {"title": "Toque onde importa", "text": "Em um retrato, toque no rosto ou na região dos olhos para orientar o foco. Se o assunto estiver parado, o bloqueio de foco e exposição pode ajudar; no iPhone, mantenha pressionada a área até aparecer Bloqueio AE/AF. Se a pessoa mudar de distância, refaça o foco."},
+        {"title": "Segure com estabilidade", "text": "Use as duas mãos, mantenha os cotovelos próximos ao corpo e pressione o disparador com suavidade. Um apoio firme ou temporizador pode reduzir a trepidação em cenas paradas. Aguarde a captura terminar antes de baixar o celular, principalmente no modo noturno."},
+        {"title": "Movimento pede mais luz", "text": "Se alguém se move durante a captura, o rosto ou as mãos podem ficar borrados mesmo com o celular firme. Procure um local mais iluminado, antecipe o gesto e faça algumas opções. O modo noturno pode alongar a captura e não é a primeira escolha para pessoas em movimento."},
+        {"title": "Zoom e distância não são iguais", "text": "O zoom digital recorta e pode reduzir a qualidade. Quando for seguro, aproxime-se fisicamente ou use uma lente óptica disponível no seu aparelho. A ultrawide amplia o campo de visão, mas pode deformar pessoas nas bordas; reserve-a para quando houver uma razão clara."},
+        {"title": "Modo Retrato com cuidado", "text": "O desfoque computacional pode errar em cabelos, óculos, dedos e contornos. Faça também uma versão no modo Foto. Para grupos, priorize todos os rostos nítidos e pessoas em distâncias semelhantes da câmera. Confira o arquivo antes de liberar o grupo."}
+      ],
+      "steps": ["Estabilize o aparelho com as duas mãos.", "Toque no assunto principal para orientar o foco.", "Faça mais de uma opção quando houver movimento.", "Amplie e confira olhos, rostos e contornos."],
+      "exercise": "Fotografe um colega parado e depois caminhando, no mesmo ambiente. Compare mãos e rosto. Repita em um local mais iluminado e observe o que muda.",
+      "avoid": "Dar muito zoom em um palco escuro ou tentar corrigir depois uma foto que já nasceu fora de foco.",
+      "takeaway": "Luz suficiente, firmeza e foco no assunto principal são a base da nitidez."
+    },
+    {
+      "id": "pessoas", "number": "05", "title": "Fotografe pessoas e eventos", "minutes": 9, "tag": "Dia a dia", "image": "people.svg",
+      "description": "Conte o que aconteceu com uma sequência simples de imagens.",
+      "principle": "Uma boa cobertura mostra pessoas, ação e contexto.",
+      "sections": [
+        {"title": "Retratos que deixam a pessoa à vontade", "text": "Explique rapidamente o que você vai registrar. Busque luz suave e um fundo que não distraia. Posicione a câmera aproximadamente na altura dos olhos e converse durante a captura. Prefira uma expressão natural a uma sequência de poses muito rígidas."},
+        {"title": "Grupos sem susto", "text": "Procure uma área iluminada de modo uniforme. Organize as pessoas em uma ou duas linhas, com os rostos visíveis e em distâncias próximas da câmera. Afaste-se para não deformar quem está nas bordas. Avise antes do clique, faça algumas opções e amplie para conferir os olhos."},
+        {"title": "A sequência de uma cobertura", "text": "Comece com um plano aberto do ambiente. Faça um plano médio da atividade e um detalhe significativo. Inclua quem participa, uma interação espontânea e um registro institucional quando pertinente. Essa é uma lista de apoio; adapte-a ao que realmente acontece."},
+        {"title": "Antecipe os momentos", "text": "Chegue antes, reconheça a luz e observe onde as ações vão acontecer. Em uma fala, espere uma expressão natural e evite a boca em posições desconfortáveis. Em entregas ou encontros, registre o gesto e a reação. Circule com discrição e respeite o trabalho das equipes."},
+        {"title": "Cuide das pessoas e das informações", "text": "Siga o procedimento interno de autorização e uso de imagem. Tenha atenção especial a crianças, crachás, documentos e telas com informações pessoais. Se houver dúvida sobre o registro ou a publicação, confirme com a equipe responsável antes de compartilhar."}
+      ],
+      "steps": ["Faça um plano aberto para situar o ambiente.", "Mostre a ação e a participação das pessoas.", "Registre um detalhe e uma interação espontânea.", "Confira nitidez, expressões e informações expostas."],
+      "exercise": "Conte uma pequena atividade da equipe com cinco imagens: ambiente, ação, detalhe, interação e um retrato. Escolha fotos que tragam informações diferentes.",
+      "avoid": "Voltar de um evento apenas com fotos do palco ou com várias imagens praticamente iguais.",
+      "takeaway": "Varie os planos e procure momentos que expliquem o que aconteceu."
+    },
+    {
+      "id": "edicao", "number": "06", "title": "Edite e compartilhe melhor", "minutes": 8, "tag": "Finalização", "image": "edit.svg",
+      "description": "Selecione, ajuste com leveza e preserve o arquivo original.",
+      "principle": "Editar é ajudar a imagem a comunicar com clareza.",
+      "sections": [
+        {"title": "Selecione antes de editar", "text": "Elimine fotos tremidas, olhos fechados e repetições. Escolha pela informação, pela expressão e pela qualidade técnica. Uma seleção curta e variada costuma ser mais útil do que muitas imagens quase iguais. Preserve também o contexto necessário para entender a cena."},
+        {"title": "Uma ordem simples de ajustes", "text": "Comece endireitando o horizonte e fazendo um recorte discreto. Ajuste a exposição, reduza altas luzes quando necessário e abra um pouco as sombras se houver detalhes a recuperar. Corrija a temperatura de cor com cuidado. Revise o conjunto antes de salvar uma cópia."},
+        {"title": "Naturalidade é a referência", "text": "Use contraste, saturação e nitidez com moderação. Compare com o original. Filtros fortes e suavização de pele podem mudar a percepção do ambiente e das pessoas. Em registros institucionais, não altere o conteúdo factual da cena para deixá-la mais atraente."},
+        {"title": "Entregue o arquivo, não o print", "text": "Evite capturas de tela da galeria e reenvios sucessivos que comprimem a imagem. Use o canal institucional de arquivos ou o envio como documento quando apropriado. Guarde o original e, se necessário, entregue uma cópia em JPEG de boa qualidade para facilitar o uso."},
+        {"title": "Uma legenda ajuda a foto a trabalhar", "text": "Informe o que aconteceu, local, data e identificação das pessoas quando necessário e autorizado. Organize a pasta com uma convenção simples, como AAAA-MM-DD_atividade_local, e inclua o crédito de autoria. Confira a seleção no tamanho em que ela será publicada."}
+      ],
+      "steps": ["Selecione imagens nítidas e sem repetições.", "Endireite e ajuste luz e cor com moderação.", "Compare com o original e salve uma cópia.", "Envie o arquivo com contexto e crédito."],
+      "exercise": "Escolha uma foto e faça somente três ajustes: alinhamento, exposição e temperatura. Compare com o original e veja se a cena continua natural.",
+      "avoid": "Tentar recuperar com filtros uma foto sem foco ou sobrescrever o único arquivo original.",
+      "takeaway": "Uma seleção consistente, ajustes leves e arquivos bem organizados completam a entrega."
+    },
+    {
+      "id": "missoes", "number": "07", "title": "Cobertura de Missões", "minutes": 15, "tag": "Guia de campo", "image": "missions.svg", "pdfPages": 4,
+      "description": "Registre aprendizados, conexões e insights com aplicação nos negócios.",
+      "principle": "Uma boa cobertura aproxima o que foi observado do que pode ser aplicado.",
+      "sections": [
+        {"title": "Comece pela pergunta da visita", "text": "Antes de cada agenda, alinhe com a equipe técnica o objetivo e escolha uma pergunta: que problema, prática ou oportunidade vamos investigar? Identifique quem pode explicá-la e quais cenas ajudam a compreendê-la. O destino situa a experiência; o aprendizado orienta a pauta."},
+        {"title": "Fotografe o conhecimento em ação", "text": "Procure demonstrações, processos, soluções em uso e empresários observando, perguntando ou comparando alternativas. Combine ambiente, ação e detalhe. Uma fachada pode identificar a organização visitada; uma sequência com demonstração e reação ajuda a explicar o que aquela visita acrescentou."},
+        {"title": "Mostre o sentido das conexões", "text": "Registre conversas e trocas com contexto: quem se encontrou, qual interesse em comum e qual é o próximo passo. Peça uma síntese depois da conversa. Diferencie contato iniciado, negociação em andamento e negócio confirmado. Uma foto de aperto de mãos, sozinha, não comprova uma parceria."},
+        {"title": "Pergunte pela aplicação", "text": "Depois de ouvir o que impressionou, aprofunde: o que isso pode mudar no negócio? Que adaptação seria necessária? O que ainda precisa ser validado? Empresários traduzem a relevância para sua realidade; especialistas explicam o funcionamento; a diretoria relaciona o aprendizado ao objetivo estratégico da missão."},
+        {"title": "Transforme o registro em conteúdo útil", "text": "Organize a síntese em observação, evidência, aplicação possível e próximo passo. Dê prioridade ao que ajuda outras pessoas a decidir ou experimentar. Confirme nomes, termos e números com a fonte. Filme demonstrações e materiais apenas quando permitido e mantenha informações comerciais sensíveis fora da divulgação."}
+      ],
+      "steps": ["Alinhe o objetivo e uma pergunta por agenda.", "Registre contexto, demonstração e interação.", "Pergunte pela aplicação e pelo próximo passo.", "Confira os fatos e organize a entrega do dia."],
+      "exercise": "Escolha uma visita ou encontro técnico e produza uma sequência de cinco fotos com uma legenda de síntese: o que foi observado, por que importa e o que pode ser testado. Se ainda não houver uma missão, pratique em uma atividade da equipe.",
+      "avoid": "Sequências apenas de fachadas e poses, adjetivos sem explicação técnica e anúncios de resultados que ainda não foram confirmados. Escolha imagens que acrescentem informação ao conjunto.",
+      "takeaway": "Registre o aprendizado, explique a conexão e aponte uma aplicação possível.",
+      "toolkit": {
+        "captureTitle": "Seis registros que ajudam a contar a missão",
+        "shots": [
+          {"title": "Contexto da agenda", "text": "Um plano aberto da feira, empresa ou visita, identificando a atividade e sua finalidade."},
+          {"title": "Demonstração ou processo", "text": "A solução funcionando, uma etapa produtiva ou uma explicação técnica, com autorização."},
+          {"title": "Detalhe que faz diferença", "text": "Um recurso, material ou método, acompanhado da explicação de sua utilidade."},
+          {"title": "Empresário aprendendo", "text": "Perguntas, anotações, testes e comparação de alternativas. Observe expressões e gestos naturais."},
+          {"title": "Conexão com contexto", "text": "A conversa entre participantes e possíveis parceiros, com interesse e próximo passo identificados."},
+          {"title": "Grupo e registro institucional", "text": "Uma foto do grupo na agenda técnica e da diretoria em interação, quando presente."}
+        ],
+        "interviews": [
+          {"role": "Empresário", "questions": ["Qual aprendizado desta agenda pode fazer diferença no seu negócio?", "O que você pretende testar ou aprofundar quando voltar?"]},
+          {"role": "Especialista ou anfitrião", "questions": ["Que problema essa solução resolve e como ela funciona?", "O que um pequeno negócio precisa adaptar para aplicá-la?"]},
+          {"role": "Diretoria ou equipe técnica", "questions": ["Como essa agenda contribui para o objetivo da missão?", "Que oportunidade merece acompanhamento e qual é o próximo passo?"]}
+        ],
+        "insightTitle": "Da observação à aplicação",
+        "exampleLabel": "Exemplo fictício para orientar o registro",
+        "insight": [
+          {"label": "Observação", "text": "O que foi visto, de forma específica?", "example": "Em uma demonstração, um QR code dava acesso à ficha técnica do produto."},
+          {"label": "Evidência", "text": "Que registro ou fonte sustenta a informação?", "example": "Foto autorizada do recurso e explicação confirmada com o expositor."},
+          {"label": "Aplicação possível", "text": "Para quem isso pode ser útil e com qual adaptação?", "example": "Um negócio pode testar o acesso à ficha de um produto por QR code, com informações atualizadas."},
+          {"label": "Limite a validar", "text": "O que ainda não sabemos sobre a aplicação?", "example": "É preciso verificar se os clientes usam o recurso e se a equipe consegue manter a ficha atualizada."},
+          {"label": "Próximo passo", "text": "Que ação concreta pode ser acompanhada?", "example": "Escolher um produto, definir um responsável e testar o recurso em um próximo atendimento."}
+        ],
+        "dailyTitle": "Uma entrega diária possível",
+        "dailyPlan": [
+          {"format": "Story 1 · Contexto", "text": "Apresente a agenda e a pergunta que orienta a visita. Use uma cena do ambiente e uma fala curta."},
+          {"format": "Story 2 · Aprendizado", "text": "Mostre uma prática ou demonstração e explique sua utilidade. Acrescente um detalhe que sustente a observação."},
+          {"format": "Story 3 · Aplicação e conexão", "text": "Traga um empresário ou porta-voz explicando a relevância, a adaptação necessária ou o próximo passo."},
+          {"format": "Síntese em vídeo · 45 a 60 s", "text": "Una a pergunta inicial, cenas da atividade, um aprendizado e uma aplicação possível. Ajuste o formato à relevância da agenda."}
+        ],
+        "captionLabel": "Modelo de síntese para preencher",
+        "caption": "Durante [agenda técnica], os participantes observaram [prática ou solução]. Para [perfil de negócio], uma aplicação possível é [adaptação], ainda a validar em [teste ou análise]. O próximo passo é [ação].",
+        "delivery": "Entregue fotos selecionadas, vídeos originais e um resumo com data, local, atividade, nomes e funções, autoria e contatos para checagem. Organize por dia e agenda; acrescente as fontes dos dados e pendências de confirmação. Compartilhe contatos apenas pelo canal interno adequado."
+      }
+    }
+  ],
+  "checklist": [
+    {"group": "Antes de sair", "items": ["Lente limpa, bateria e espaço livre.", "Objetivo do registro e formatos necessários definidos.", "Câmera nativa testada; grade ativada."]},
+    {"group": "Antes do clique", "items": ["Luz uniforme no assunto principal.", "Foco e exposição conferidos.", "Horizonte, fundo e quatro bordas revisados.", "Aparelho firme e pessoas prontas."]},
+    {"group": "Antes de enviar", "items": ["Nitidez e expressões conferidas ampliando.", "Seleção com ambiente, ação e detalhe.", "Uso de imagem e informações expostas conferidos.", "Originais preservados; arquivos com data, contexto e crédito."]}
+  ],
+  "sources": [
+    {"label": "Apple · Ferramentas de câmera: foco, exposição e grade", "url": "https://support.apple.com/pt-br/guide/iphone/iph3dc593597/ios"},
+    {"label": "Samsung · Dicas para fotografar com Galaxy", "url": "https://www.samsung.com/br/support/mobile-devices/como-tirar-fotos-excelentes-com-o-seu-galaxy/"}
+  ]
+}
